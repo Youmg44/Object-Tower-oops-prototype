@@ -1,0 +1,1606 @@
+
+*.md
+*.md
+*.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/CHANGELOG.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/CHANGELOG.md.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/2DIK.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/CharacterParts.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/CharacterRig.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/CopyPasteSkele.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/Examples.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/FFanimation.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2D_IK_Image1.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2D_IK_Image2.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2D_IK_Image3.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2D_IK_Image4.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2D_IK_Image5.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2D_IK_Image6.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2D_IK_Image7.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2D_IK_Image8.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2D_IK_Sceneview_Toggle.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2D_IK_SolverGizmo_Toggle.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2DAnim_SpriteSwap_property.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2DAnimationV2_compacted.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2DAnimationV2_Mosaic_Prefab.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2DAnimationV2_PSDLayers.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2DAnimationV2_SkinnerUI.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2DAnimationV2_SkinnerUI_expanded.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2DAnimationV2_split.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/2DAnimationV2_ToolPreferences.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/AddSpriteRenderer.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/AnimWin_PhotoshopWin_match.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/bone_icon.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/bone_panel.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/bone_tree.PNG
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/BoneChain.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/BoneInf_panel.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/BoneInfluence.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/BoneInfluences_order.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/BoneInfluences_orderSpriteSkin.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/BoneInfluencesExample.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/bothscarves.PNG
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/bothsprites.PNG
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/GeoPanel.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/Highlighted_Visibility_icon.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_BoneInfluence.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_Copy.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_CreateBone.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_CreateEdge.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_CreateVertex.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_EditGeo.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_EditJoints.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_GenGeo.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_GenWeights.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_Paste.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_PreviewPose.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_ReparentBone.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_RestoreBind.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_BoneInfluence.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_CreateBone.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_CreateEdge.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_CreateVertex.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_EditJoints.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_GenGeo.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_GenWeight-1543300126435.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_GenWeight.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_PreviewPose.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_ReparentBone.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_RestoreBind.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_Visibility.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_WeightPainter.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_small_WeightSlider.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_SplitBone.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_SplitEdge.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_ToggleView.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_Visibility.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_WeightPaint.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/icon_WeightSlider.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_0.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_1.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_10.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_11.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_12.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_13.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_14.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_15.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_16.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_17.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_18.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_2.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_3.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_4-1578391477693.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_4.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_5.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_6.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_7.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_8.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/image_9.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/ImporterWindow.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/LabelledEditorTools.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/mesh_icon.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/old_2DAnimationV2_ToolPreferences.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/PasteButton.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/PasteDialog.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/SelectSknEditor.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/Sprite_columns.PNG
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/SpriteLibraryComponent.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/SpriteResolver_VisualSelector.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/SpriteResolverCheck.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/SpriteSkin_inspect_exp.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/SpriteTab_order.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/Visibility_button.PNG
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/visibility_icon.PNG
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/WeightBrush.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/Weights_panel.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/images/WeightSlider.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/index.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/PreparingArtwork.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/SkinEdToolsShortcuts.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/SkinningEditor.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/SLAsset.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/SLASwap.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/SpriteSwapIntro.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/SpriteVis.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/SSManual.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/TableOfContents.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Documentation~/ToolPref.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Analytics.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Analytics.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/AssemblyInfo.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/AssemblyInfo.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/LayoutOverlay.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/LayoutOverlay/LayoutOverlay.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/LayoutOverlay/LayoutOverlay.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/LayoutOverlay/LayoutOverlayStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/LayoutOverlay/LayoutOverlayStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/LayoutOverlay/ScrollableToolbar.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/LayoutOverlay/ScrollableToolbar.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/BoneInspectorPanel.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/BoneInspectorPanel.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/BoneInspectorPanelStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/BoneInspectorPanelStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/BoneReparentStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/BoneReparentStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/BoneReparentWindow.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/BoneReparentWindow.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/BoneToolbar.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/BoneToolbar.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/BoneToolbarStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/BoneToolbarStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/CopyToolbar.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/CopyToolbar.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/CopyToolbarStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/CopyToolbarStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/dotCyan.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/dotCyan.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/dotYellow.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/dotYellow.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/GenerateGeometryPanel.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/GenerateGeometryPanel.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/GenerateGeometryPanelStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/GenerateGeometryPanelStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/GenerateWeightsPanel.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/GenerateWeightsPanel.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/GenerateWeightsPanelStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/GenerateWeightsPanelStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone_Influence.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone_Influence.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone_Influence@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone_Influence@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone_Influence@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone_Influence@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone_Influence@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Bone_Influence@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_character_Mode.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_character_Mode.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_character_Mode@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_character_Mode@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_character_Mode@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_character_Mode@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_character_Mode@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_character_Mode@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Copy.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Copy.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Copy@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Copy@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Copy@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Copy@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Copy@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Copy@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create Bones.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create Bones.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create Bones@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create Bones@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create Bones@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create Bones@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create Bones@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create Bones@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Edge.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Edge.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Edge@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Edge@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Edge@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Edge@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Edge@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Edge@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Vertex.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Vertex.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Vertex@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Vertex@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Vertex@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Vertex@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Vertex@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Create_Vertex@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Geometry.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Geometry.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Geometry@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Geometry@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Geometry@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Geometry@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Geometry@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Geometry@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Joints.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Joints.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Joints@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Joints@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Joints@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Joints@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Joints@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Joints@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Pose.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Pose.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Pose@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Pose@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Pose@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Pose@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Pose@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Edit_Pose@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Geometry.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Geometry.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Geometry@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Geometry@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Geometry@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Geometry@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Geometry@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Geometry@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Weights.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Weights.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Weights@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Weights@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Weights@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Weights@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Weights@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Generate_Weights@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Mesh.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Mesh.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Mesh@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Mesh@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Mesh@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Mesh@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Mesh@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Mesh@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Parent_Bone.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Parent_Bone.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Parent_Bone@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Parent_Bone@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Parent_Bone@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Parent_Bone@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Parent_Bone@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Parent_Bone@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Paste.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Paste.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Paste@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Paste@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Paste@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Paste@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Paste@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Paste@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split Bones.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split Bones.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split Bones@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split Bones@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split Bones@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split Bones@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split Bones@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split Bones@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split_Edge.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split_Edge.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split_Edge@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split_Edge@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split_Edge@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split_Edge@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split_Edge@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Split_Edge@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Sprite_Mode.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Sprite_Mode.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Sprite_Mode@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Sprite_Mode@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Sprite_Mode@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Sprite_Mode@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Sprite_Mode@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Sprite_Mode@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Hidded.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Hidded.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Hidded@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Hidded@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Hidded@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Hidded@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Hidded@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Hidded@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool 1.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool 1.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool@2x 1.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool@2x 1.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool@3x 1.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool@3x 1.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool@4x 1.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool@4x 1.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Visibility_Tool@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Brush.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Brush.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Brush@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Brush@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Brush@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Brush@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Brush@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Brush@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Slider.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Slider.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Slider@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Slider@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Slider@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Slider@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Slider@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Dark/d_Weight_Slider@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone_Influence.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone_Influence.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone_Influence@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone_Influence@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone_Influence@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone_Influence@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone_Influence@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Bone_Influence@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/character_Mode.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/character_Mode.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/character_Mode@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/character_Mode@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/character_Mode@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/character_Mode@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/character_Mode@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/character_Mode@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Copy.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Copy.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Copy@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Copy@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Copy@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Copy@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Copy@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Copy@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create Bones.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create Bones.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create Bones@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create Bones@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create Bones@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create Bones@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create Bones@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create Bones@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Edge.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Edge.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Edge@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Edge@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Edge@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Edge@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Edge@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Edge@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Vertex.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Vertex.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Vertex@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Vertex@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Vertex@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Vertex@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Vertex@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Create_Vertex@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Geometry.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Geometry.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Geometry@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Geometry@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Geometry@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Geometry@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Geometry@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Geometry@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Joints.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Joints.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Joints@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Joints@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Joints@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Joints@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Joints@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Joints@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Pose.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Pose.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Pose@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Pose@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Pose@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Pose@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Pose@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Edit_Pose@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Geometry.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Geometry.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Geometry@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Geometry@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Geometry@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Geometry@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Geometry@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Geometry@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Weights.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Weights.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Weights@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Weights@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Weights@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Weights@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Weights@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Generate_Weights@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Mesh.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Mesh.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Mesh@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Mesh@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Mesh@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Mesh@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Mesh@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Mesh@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Parent_Bone.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Parent_Bone.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Parent_Bone@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Parent_Bone@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Parent_Bone@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Parent_Bone@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Parent_Bone@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Parent_Bone@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Paste.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Paste.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Paste@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Paste@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Paste@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Paste@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Paste@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Paste@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split Bones.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split Bones.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split Bones@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split Bones@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split Bones@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split Bones@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split Bones@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split Bones@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split_Edge.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split_Edge.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split_Edge@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split_Edge@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split_Edge@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split_Edge@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split_Edge@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Split_Edge@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Bone_Influence.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Bone_Influence.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Bone_Influence@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Bone_Influence@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Bone_Influence@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Bone_Influence@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Bone_Influence@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Bone_Influence@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/character_Mode.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/character_Mode.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/character_Mode@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/character_Mode@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/character_Mode@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/character_Mode@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/character_Mode@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/character_Mode@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Copy.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Copy.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Copy@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Copy@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Copy@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Copy@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Copy@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Copy@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create Bones.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create Bones.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create Bones@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create Bones@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create Bones@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create Bones@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create Bones@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create Bones@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Edge.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Edge.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Edge@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Edge@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Edge@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Edge@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Edge@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Edge@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Vertex.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Vertex.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Vertex@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Vertex@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Vertex@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Vertex@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Vertex@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Create_Vertex@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Bone.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Bone.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Bone@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Bone@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Bone@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Bone@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Bone@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Bone@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Mesh.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Mesh.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Mesh@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Mesh@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Mesh@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Mesh@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Mesh@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Mesh@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Hidded.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Hidded.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Hidded@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Hidded@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Hidded@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Hidded@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Hidded@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Hidded@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Tool.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Tool.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Tool@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Tool@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Tool@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Tool@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Tool@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/d_Visibility_Tool@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Geometry.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Geometry.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Geometry@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Geometry@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Geometry@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Geometry@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Geometry@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Geometry@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Joints.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Joints.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Joints@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Joints@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Joints@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Joints@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Joints@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Joints@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Pose.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Pose.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Pose@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Pose@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Pose@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Pose@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Pose@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Edit_Pose@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Geometry.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Geometry.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Geometry@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Geometry@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Geometry@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Geometry@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Geometry@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Geometry@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Weights.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Weights.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Weights@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Weights@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Weights@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Weights@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Weights@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Generate_Weights@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Parent_Bone.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Parent_Bone.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Parent_Bone@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Parent_Bone@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Parent_Bone@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Parent_Bone@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Parent_Bone@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Parent_Bone@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Paste.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Paste.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Paste@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Paste@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Paste@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Paste@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Paste@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Paste@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split Bones.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split Bones.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split Bones@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split Bones@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split Bones@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split Bones@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split Bones@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split Bones@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider@3x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider@3x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/MeshToolbar.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/MeshToolbar.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/MeshToolbarStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/MeshToolbarStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/PastePanel.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/PastePanel.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/PastePanelStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/PastePanelStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SkinningModule-GUITextureClip.shader
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SkinningModule-GUITextureClip.shader.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SpriteBitMask.shader
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SpriteBitMask.shader.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SpriteBoneInfluenceListWidget.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SpriteBoneInfluenceListWidget.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SpriteBoneInfluenceListWidgetStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SpriteBoneInfluenceListWidgetStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SpriteBoneInfluenceWindow.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SpriteBoneInfluenceWindow.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SpriteBoneInfluenceWindowStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SpriteBoneInfluenceWindowStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SpriteOutline.shader
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/SpriteOutline.shader.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/ToolbarStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/ToolbarStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/VisibilityTool.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/VisibilityTool.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/VisibilityToolbar.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/VisibilityToolbar.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/VisibilityToolWindow.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/VisibilityToolWindow.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/WeightInspectorIMGUIPanelStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/WeightInspectorIMGUIPanelStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/WeightPainterPanel.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/WeightPainterPanel.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/WeightPainterPanelStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/WeightPainterPanelStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/WeightToolbar.uxml
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/WeightToolbar.uxml.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/WeightToolbarStyle.uss
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Assets/SkinningModule/WeightToolbarStyle.uss.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/ClipperLib.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/ClipperLib/clipper.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/ClipperLib/clipper.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/ICharacterDataProvider.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/ICharacterDataProvider.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Library.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Library.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Library@16x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Library@16x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Library@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Library@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Library@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Library@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Library@8x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Library@8x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Resolver.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Resolver.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Resolver@16x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Resolver@16x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Resolver@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Resolver@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Resolver@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Resolver@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Resolver@8x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Dark/Sprite Resolver@8x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Library.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Library.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Library@16x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Library@16x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Library@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Library@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Library@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Library@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Library@8x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Library@8x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Resolver.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Resolver.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Resolver@16x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Resolver@16x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Resolver@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Resolver@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Resolver@4x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Resolver@4x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Resolver@8x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Light/Sprite Resolver@8x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Selected.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Selected/Sprite Library.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Selected/Sprite Library.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Selected/Sprite Library@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Selected/Sprite Library@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Selected/Sprite Resolver.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Selected/Sprite Resolver.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Selected/Sprite Resolver@2x.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Icons/Selected/Sprite Resolver@2x.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/LayoutOverlay.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/LayoutOverlay/DropdownMenu.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/LayoutOverlay/DropdownMenu.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/LayoutOverlay/LayoutOverlay.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/LayoutOverlay/LayoutOverlay.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/LayoutOverlay/LayoutOverlayUtility.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/LayoutOverlay/LayoutOverlayUtility.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/LayoutOverlay/Manipulators.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/LayoutOverlay/Manipulators/Draggable.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/LayoutOverlay/Manipulators/Draggable.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/LayoutOverlay/ScrollableToolbar.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/LayoutOverlay/ScrollableToolbar.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/ResourceLoader.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/ResourceLoader.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/AssociateBonesScope.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/AssociateBonesScope.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/BaseTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/BaseTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/BoneDrawingUtility.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/BoneDrawingUtility.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Cache.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Cache/BaseObject.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Cache/BaseObject.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Cache/Cache.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Cache/Cache.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Cache/CacheObject.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Cache/CacheObject.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/CharacterModeTool.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/CharacterModeTool/SwitchModeTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/CharacterModeTool/SwitchModeTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/ColorExtensions.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/ColorExtensions.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/CopyTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/CopyTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/DefaultPoseScope.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/DefaultPoseScope.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/DrawingUtility.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/DrawingUtility.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/GenerateGeometryTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/GenerateGeometryTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/GenerateWeightsTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/GenerateWeightsTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/HorizontalToggleTools.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/HorizontalToggleTools.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IconUtility.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IconUtility.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/Brush.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/Brush.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/GUIWrapper.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/GUIWrapper.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/ISkeletonView.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/ISkeletonView.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/ISpriteMeshView.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/ISpriteMeshView.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/RectSelectionTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/RectSelectionTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/RectSlider.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/RectSlider.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/SkeletonController.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/SkeletonController.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/SkeletonView.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/SkeletonView.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/Slider2D.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/Slider2D.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/SpriteMeshController.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/SpriteMeshController.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/SpriteMeshView.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/SpriteMeshView.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/UnselectTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/UnselectTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/WeightInspector.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/IMGUI/WeightInspector.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Lib.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Lib/x64.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Lib/x64/BoundedBiharmonicWeightsModule.dll
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Lib/x64/BoundedBiharmonicWeightsModule.dll.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Lib/x64/BoundedBiharmonicWeightsModule.so
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Lib/x64/BoundedBiharmonicWeightsModule.so.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Lib/x86_64.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Lib/x86_64/BoundedBiharmonicWeightsModule.bundle
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Lib/x86_64/BoundedBiharmonicWeightsModule.bundle.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MathUtility.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MathUtility.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MeshPreviewTool.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MeshPreviewTool/IMeshPreviewBehaviour.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MeshPreviewTool/IMeshPreviewBehaviour.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MeshPreviewTool/MeshPreviewBehaviour.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MeshPreviewTool/MeshPreviewBehaviour.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MeshPreviewTool/MeshPreviewTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MeshPreviewTool/MeshPreviewTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MeshTool.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MeshTool/MeshTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MeshTool/MeshTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MeshTool/MeshToolWrapper.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/MeshTool/MeshToolWrapper.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/ModuleToolGroup.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/ModuleToolGroup.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/ModuleUtility.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/ModuleUtility.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/OutlineGenerator.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/OutlineGenerator/IOutlineGenerator.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/OutlineGenerator/IOutlineGenerator.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/OutlineGenerator/OutlineGenerator.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/OutlineGenerator/OutlineGenerator.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/BoneSelection.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/BoneSelection.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/IBoneSelection.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/IBoneSelection.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/IndexedSelection.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/IndexedSelection.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/ISelection.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/ISelection.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/ITransformSelection.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/ITransformSelection.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/SerializableSelection.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/SerializableSelection.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/SkeletonSelection.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selection/SkeletonSelection.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SelectionTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SelectionTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/CircleVertexSelector.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/CircleVertexSelector.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/GenericVertexSelector.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/GenericVertexSelector.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/ICircleSelector.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/ICircleSelector.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/IRectSelector.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/IRectSelector.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/ISelector.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/ISelector.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/RectBoneSelector.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/RectBoneSelector.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/RectVertexSelector.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/RectVertexSelector.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/Unselector.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Selectors/Unselector.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SerializableDictionary.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SerializableDictionary.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkeletonTool.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkeletonTool/SkeletonStyles.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkeletonTool/SkeletonStyles.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkeletonTool/SkeletonTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkeletonTool/SkeletonTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkeletonTool/SkeletonToolView.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkeletonTool/SkeletonToolView.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkeletonTool/SkeletonToolWrapper.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkeletonTool/SkeletonToolWrapper.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/BoneCache.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/BoneCache.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/BoneCacheExtensions.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/BoneCacheExtensions.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/CharacterCache.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/CharacterCache.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/CharacterPartCache.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/CharacterPartCache.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/CharacterPartCacheExtensions.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/CharacterPartCacheExtensions.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/MeshCache.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/MeshCache.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/MeshPreviewCache.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/MeshPreviewCache.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SkeletonCache.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SkeletonCache.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SkeletonCacheExtensions.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SkeletonCacheExtensions.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SkinningCache.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SkinningCache.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SkinningCachePersistentState.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SkinningCachePersistentState.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SkinningEnums.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SkinningEnums.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SkinningEvents.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SkinningEvents.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SpriteCache.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SpriteCache.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SpriteCacheExtensions.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/SpriteCacheExtensions.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/TransformCache.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/TransformCache.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/TransformCacheExtensions.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCache/TransformCacheExtensions.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCopyUtility.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningCopyUtility.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningModule.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningModule.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningModuleView.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningModuleView.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningSerializer.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningSerializer/ISkinningSerializer.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningSerializer/ISkinningSerializer.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningSerializer/SkinningSerializerJSON.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningSerializer/SkinningSerializerJSON.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningSerializer/SkinningSerializerXML.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SkinningSerializer/SkinningSerializerXML.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteBoneInfluence.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteBoneInfluence/SpriteBoneInfluenceListWidget.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteBoneInfluence/SpriteBoneInfluenceListWidget.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteBoneInfluence/SpriteBoneInfluenceTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteBoneInfluence/SpriteBoneInfluenceTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteBoneInfluence/SpriteBoneInfluenceWindow.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteBoneInfluence/SpriteBoneInfluenceWindow.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/BoneWeightExtensions.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/BoneWeightExtensions.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/Edge.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/Edge.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/EditableBoneWeight.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/EditableBoneWeight.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/EditableBoneWeightUtility.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/EditableBoneWeightUtility.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/SmoothingUtility.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/SmoothingUtility.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/SpriteMeshData.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/SpriteMeshData.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/SpriteMeshDataController.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/SpriteMeshDataController.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/Vertex2D.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/Vertex2D.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/WeightEditor.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/SpriteMeshData/WeightEditor.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/TextContent.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/TextContent.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Triangulation.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Triangulation/ITriangulator.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Triangulation/ITriangulator.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Triangulation/TriangulationUtility.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Triangulation/TriangulationUtility.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Triangulation/Triangulator.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Triangulation/Triangulator.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/BoneInspectorPanel.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/BoneInspectorPanel.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/BoneToolbar.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/BoneToolbar.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/CopyToolbar.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/CopyToolbar.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/GenerateGeometryPanel.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/GenerateGeometryPanel.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/GenerateWeightsPanel.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/GenerateWeightsPanel.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/MeshToolbar.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/MeshToolbar.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/PastePanel.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/PastePanel.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/Toolbar.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/Toolbar.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/VisualElementExtensions.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/VisualElementExtensions.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/WeightInspectorIMGUIPanel.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/WeightInspectorIMGUIPanel.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/WeightPainterPanel.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/WeightPainterPanel.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/WeightToolbar.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UI/WeightToolbar.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Undo.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Undo/DisabledUndo.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Undo/DisabledUndo.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Undo/DisableUndoScope.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Undo/DisableUndoScope.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Undo/ICacheUndo.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Undo/ICacheUndo.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Undo/IUndo.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Undo/IUndo.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Undo/UndoScope.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Undo/UndoScope.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Undo/UnityEngineUndo.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/Undo/UnityEngineUndo.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UserSettings.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/UserSettings.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/BoneReparentTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/BoneReparentTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/BoneTreeViewController.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/BoneTreeViewController.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/BoneTreeViewModel.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/BoneTreeViewModel.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/BoneVisibilityTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/BoneVisibilityTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/BoneVisibilityToolInterface.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/BoneVisibilityToolInterface.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/MeshVisibilityTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/MeshVisibilityTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/SpriteVisibilityTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/SpriteVisibilityTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/VisibilityTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/VisibilityTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/VisibilityToolBase.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/VisibilityToolBase.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/VisibilityToolColumnHeader.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/VisibilityToolColumnHeader.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/VisibilityToolResizer.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/VisibilityTool/VisibilityToolResizer.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/WeightPainterTool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/WeightPainterTool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/WeightPainterToolWrapper.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/WeightPainterToolWrapper.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/WeightsGenerator.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/WeightsGenerator/BoundedBiharmonicWeightsGenerator.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/WeightsGenerator/BoundedBiharmonicWeightsGenerator.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/WeightsGenerator/IWeightsGenerator.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SkinningModule/WeightsGenerator/IWeightsGenerator.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteLib.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteLib/SpriteLibraryAssetInspector.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteLib/SpriteLibraryAssetInspector.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteLib/SpriteLibraryDataProvider.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteLib/SpriteLibraryDataProvider.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteLib/SpriteLibraryInspector.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteLib/SpriteLibraryInspector.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteLib/SpriteResolverInspector.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteLib/SpriteResolverInspector.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteLib/SpriteSelectionWidget.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteLib/SpriteSelectionWidget.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteOutlineRenderer.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteOutlineRenderer/SpriteOutlineRenderer.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteOutlineRenderer/SpriteOutlineRenderer.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpritePostProcess.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpritePostProcess.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteSkin.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteSkin/BoneGizmo.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteSkin/BoneGizmo.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteSkin/BoneGizmoToggle.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteSkin/BoneGizmoToggle.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteSkin/SpriteSkinCompositeDebugWindow.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteSkin/SpriteSkinCompositeDebugWindow.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteSkin/SpriteSkinEditor.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteSkin/SpriteSkinEditor.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteSkin/SpriteSkinEntityEditor.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteSkin/SpriteSkinEntityEditor.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteSkin/TransformExtensions.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/SpriteSkin/TransformExtensions.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Unity.2D.Animation.Editor.asmdef
+Library/PackageCache/com.unity.2d.animation@5.0.4/Editor/Unity.2D.Animation.Editor.asmdef.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/AssemblyInfo.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/AssemblyInfo.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/IKEditorManager.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/IKEditorManager.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/IKGizmos.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/IKGizmos.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/Inspectors.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/Inspectors/CCDSolver2DEditor.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/Inspectors/CCDSolver2DEditor.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/Inspectors/FabrikSolver2DEditor.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/Inspectors/FabrikSolver2DEditor.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/Inspectors/IKManager2DEditor.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/Inspectors/IKManager2DEditor.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/Inspectors/LimbSolver2DEditor.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/Inspectors/LimbSolver2DEditor.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/Inspectors/Solver2DEditor.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/Inspectors/Solver2DEditor.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/Unity.2D.IK.Editor.asmdef
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Editor/Unity.2D.IK.Editor.asmdef.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/AssemblyInfo.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/AssemblyInfo.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/CCDSolver2D.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/CCDSolver2D.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/FabrikSolver2D.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/FabrikSolver2D.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/IKChain2D.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/IKChain2D.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/IKEditorManagerHelper.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/IKEditorManagerHelper.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/IKManager2D.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/IKManager2D.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/IKManager2DEditorData.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/IKManager2DEditorData.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/IKUtility.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/IKUtility.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/LimbSolver2D.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/LimbSolver2D.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/Solver2D.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/Solver2D.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/Solver2DMenuAttribute.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/Solver2DMenuAttribute.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/Solvers.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/Solvers/CCD2D.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/Solvers/CCD2D.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/Solvers/FABRIK2D.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/Solvers/FABRIK2D.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/Solvers/Limb.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/Solvers/Limb.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/Unity.2D.IK.Runtime.asmdef
+Library/PackageCache/com.unity.2d.animation@5.0.4/IK/Runtime/Unity.2D.IK.Runtime.asmdef.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/LICENSE.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/LICENSE.md.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/package.json
+Library/PackageCache/com.unity.2d.animation@5.0.4/package.json.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/README.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/README.md.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/AssemblyInfo.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/AssemblyInfo.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Components.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Components.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/DeformSpriteSystem.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/DeformSpriteSystem.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/NativeArrayHelper.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/NativeArrayHelper.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/NativeCustomSlice.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/NativeCustomSlice.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/PrepareSkinningSystem.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/PrepareSkinningSystem.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteLib.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteLib/SpriteLibrary.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteLib/SpriteLibrary.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteLib/SpriteLibraryAsset.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteLib/SpriteLibraryAsset.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteLib/SpriteResolver.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteLib/SpriteResolver.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteSkin.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteSkin.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteSkinBatch.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteSkinBatch.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteSkinComposite.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteSkinComposite.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteSkinEntity.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteSkinEntity.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteSkinManager.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteSkinManager.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteSkinUtility.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/SpriteSkinUtility.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/TransformAccessJob.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/TransformAccessJob.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Behavior.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Behavior.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Configuration.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Configuration.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Enums.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Enums.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Contour.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Contour.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Edge.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Edge.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/ExtensionMethods.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/ExtensionMethods.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/IEdge.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/IEdge.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/IPolygon.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/IPolygon.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/ISegment.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/ISegment.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/ITriangle.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/ITriangle.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Point.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Point.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Polygon.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Polygon.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Rectangle.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Rectangle.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/RegionPointer.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/RegionPointer.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Segment.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Segment.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Vertex.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Geometry/Vertex.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/DebugWriter.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/DebugWriter.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/FileProcessor.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/FileProcessor.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/IFileFormat.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/IFileFormat.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/IMeshFormat.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/IMeshFormat.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/InputTriangle.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/InputTriangle.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/IPolygonFormat.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/IPolygonFormat.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/TriangleFormat.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/TriangleFormat.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/TriangleReader.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/TriangleReader.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/TriangleWriter.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IO/TriangleWriter.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IPredicates.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/IPredicates.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Log.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Log.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Logging.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Logging/ILog.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Logging/ILog.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Logging/ILogItem.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Logging/ILogItem.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Logging/LogItem.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Logging/LogItem.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Mesh.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Mesh.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Algorithm.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Algorithm/Dwyer.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Algorithm/Dwyer.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Algorithm/Incremental.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Algorithm/Incremental.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Algorithm/SweepLine.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Algorithm/SweepLine.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/ConstraintMesher.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/ConstraintMesher.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/ConstraintOptions.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/ConstraintOptions.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Converter.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Converter.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Data.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Data/BadSubseg.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Data/BadSubseg.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Data/BadTriangle.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Data/BadTriangle.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Data/BadTriQueue.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Data/BadTriQueue.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/GenericMesher.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/GenericMesher.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/IConstraintMesher.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/IConstraintMesher.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/IMesh.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/IMesh.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/IQualityMesher.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/IQualityMesher.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Iterators.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Iterators/EdgeIterator.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Iterators/EdgeIterator.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Iterators/RegionIterator.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/Iterators/RegionIterator.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/ITriangulator.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/ITriangulator.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/QualityMesher.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/QualityMesher.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/QualityOptions.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Meshing/QualityOptions.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/MeshValidator.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/MeshValidator.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/NewLocation.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/NewLocation.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Properties.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Properties/AssemblyInfo.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Properties/AssemblyInfo.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/RobustPredicates.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/RobustPredicates.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Smoothing.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Smoothing/ISmoother.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Smoothing/ISmoother.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Smoothing/SimpleSmoother.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Smoothing/SimpleSmoother.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Smoothing/VoronoiFactory.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Smoothing/VoronoiFactory.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/AdjacencyMatrix.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/AdjacencyMatrix.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/CuthillMcKee.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/CuthillMcKee.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/Interpolation.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/Interpolation.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/IntersectionHelper.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/IntersectionHelper.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/PolygonValidator.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/PolygonValidator.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/QualityMeasure.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/QualityMeasure.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/Statistic.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/Statistic.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/TriangleQuadTree.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/TriangleQuadTree.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/VertexSorter.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Tools/VertexSorter.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/DCEL.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/DCEL/DcelMesh.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/DCEL/DcelMesh.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/DCEL/Face.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/DCEL/Face.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/DCEL/HalfEdge.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/DCEL/HalfEdge.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/DCEL/Vertex.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/DCEL/Vertex.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/Osub.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/Osub.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/Otri.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/Otri.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/SubSegment.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/SubSegment.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/Triangle.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Topology/Triangle.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/TriangleLocator.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/TriangleLocator.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/TrianglePool.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/TrianglePool.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/TriangleSampler.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/TriangleSampler.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Unity.2D.Animation.Triangle.Runtime.asmdef
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Unity.2D.Animation.Triangle.Runtime.asmdef.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/BoundedVoronoi.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/BoundedVoronoi.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/DefaultVoronoiFactory.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/DefaultVoronoiFactory.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/IVoronoiFactory.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/IVoronoiFactory.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/Legacy.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/Legacy/BoundedVoronoiLegacy.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/Legacy/BoundedVoronoiLegacy.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/Legacy/IVoronoi.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/Legacy/IVoronoi.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/Legacy/SimpleVoronoi.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/Legacy/SimpleVoronoi.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/Legacy/VoronoiRegion.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/Legacy/VoronoiRegion.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/StandardVoronoi.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/StandardVoronoi.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/VoronoiBase.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Triangle/Voronoi/VoronoiBase.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Unity.2D.Animation.Runtime.asmdef
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/Unity.2D.Animation.Runtime.asmdef.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/UpdateBoundsJob.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/UpdateBoundsJob.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/UpdateBoundsSystem.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Runtime/UpdateBoundsSystem.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/.sample.json
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/_Simple.unity
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/_Simple.unity.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Animation.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Animation/Animators.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Animation/Animators/Boris.controller
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Animation/Animators/Boris.controller.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Animation/Animators/Root.controller
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Animation/Animators/Root.controller.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Animation/Clips.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Animation/Clips/Boris Animation.anim
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Animation/Clips/Boris Animation.anim.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Animation/Clips/Boris Move.anim
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Animation/Clips/Boris Move.anim.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Sprites.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Sprites/Boris.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/1 Simple/Sprites/Boris.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/2 Single Skinned Sprite.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/2 Single Skinned Sprite/_Single Skinned Sprite.unity
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/2 Single Skinned Sprite/_Single Skinned Sprite.unity.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/2 Single Skinned Sprite/Animation.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/2 Single Skinned Sprite/Animation/Plunkah.controller
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/2 Single Skinned Sprite/Animation/Plunkah.controller.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/2 Single Skinned Sprite/Animation/Plunkah_Idle.anim
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/2 Single Skinned Sprite/Animation/Plunkah_Idle.anim.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/2 Single Skinned Sprite/Sprites.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/2 Single Skinned Sprite/Sprites/Plunkah.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/2 Single Skinned Sprite/Sprites/Plunkah.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/3 Multiple Skinned Sprites.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/3 Multiple Skinned Sprites/_Multiple Skinned Sprites.unity
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/3 Multiple Skinned Sprites/_Multiple Skinned Sprites.unity.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Animation.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Animation/Animators.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Animation/Animators/Rikr.controller
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Animation/Animators/Rikr.controller.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Animation/Clips.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Animation/Clips/Idle.anim
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Animation/Clips/Idle.anim.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Sprites.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Sprites/Rikr.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Sprites/Rikr.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/4 Character.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/4 Character/_Character.unity
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/4 Character/_Character.unity.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/4 Character/Animation.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/4 Character/Animation/Animators.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/4 Character/Animation/Animators/Fei.controller
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/4 Character/Animation/Animators/Fei.controller.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/4 Character/Animation/Clips.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/4 Character/Animation/Clips/Idle.anim
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/4 Character/Animation/Clips/Idle.anim.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/4 Character/Sprites.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/4 Character/Sprites/Fei.psb
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/4 Character/Sprites/Fei.psb.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/1 Animated Swap.unity
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/1 Animated Swap.unity.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/2 Flipbook Animation Swap.unity
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/2 Flipbook Animation Swap.unity.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/3 Part Swap.unity
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/3 Part Swap.unity.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/4 Full Skin Swap.unity
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/4 Full Skin Swap.unity.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/5 DLC Swap.unity
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/5 DLC Swap.unity.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Animation.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Animation/Animators.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Animation/Animators/Dialog.controller
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Animation/Animators/Dialog.controller.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Animation/Animators/Rikr.controller
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Animation/Animators/Rikr.controller.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Animation/Clips.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Animation/Clips/Idle.anim
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Animation/Clips/Idle.anim.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Animation/Clips/Scavengers.anim
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Animation/Clips/Scavengers.anim.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Animation/Clips/Talk.anim
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Animation/Clips/Talk.anim.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Editor.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Editor/BuildAssetBundle.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Editor/BuildAssetBundle.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Editor/Unity.2D.Animation.Samples.Editor.asmdef
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Editor/Unity.2D.Animation.Samples.Editor.asmdef.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Runtime.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Runtime/LoadSwapDLC.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Runtime/LoadSwapDLC.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Runtime/SwapFullSkin.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Runtime/SwapFullSkin.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Runtime/SwapPart.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Runtime/SwapPart.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Runtime/Unity.2D.Animation.Samples.Runtime.asmdef
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Runtime/Unity.2D.Animation.Samples.Runtime.asmdef.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Hero.asset
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Hero.asset.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Rikr Full.asset
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Rikr Full.asset.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Rikr Poison.asset
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Rikr Poison.asset.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Rikr Rage.asset
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Rikr Rage.asset.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Rikr.asset
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Rikr.asset.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Zombie1.asset
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Zombie1.asset.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Zombie2.asset
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/Zombie2.asset.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprites.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprites/dialog gray.psb
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprites/dialog gray.psb.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprites/dialog.psb
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprites/dialog.psb.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprites/Rikr Poison.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprites/Rikr Poison.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprites/Rikr Rage.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprites/Rikr Rage.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprites/Rikr.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprites/Rikr.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprites/Scavengers_SpriteSheet.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/5 SpriteSwap/Sprites/Scavengers_SpriteSheet.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/_Attachment Points.unity
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/_Attachment Points.unity.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/Animation.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/Animation/Animators.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/Animation/Animators/Fei.controller
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/Animation/Animators/Fei.controller.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/Animation/Clips.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/Animation/Clips/Idle.anim
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/Animation/Clips/Idle.anim.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/Sprites.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/Sprites/Fei's Staff.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/Sprites/Fei's Staff.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/Sprites/Fei.psb
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/Attachment Points/Sprites/Fei.psb.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/IK.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/IK/_IK.unity
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/IK/_IK.unity.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/IK/Animation.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/IK/Animation/Plunkah.controller
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/IK/Animation/Plunkah.controller.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/IK/Animation/Plunkah_Idle.anim
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/IK/Animation/Plunkah_Idle.anim.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/IK/Sprites.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/IK/Sprites/Plunkah.png
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Extras/IK/Sprites/Plunkah.png.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/LICENSE.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/LICENSE.md.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/README.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/README.md.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Scripts.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Scripts/AnimationSampleDependency.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Scripts/AnimationSampleDependency.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Scripts/Unity.2D.Animation.Samples.Dependency.asmdef
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Scripts/Unity.2D.Animation.Samples.Dependency.asmdef.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Third-Party Notices.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Samples~/AnimationSamples/Third-Party Notices.md.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Tests.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Tests/Editor.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Tests/Editor/PlaceholderTests.cs
+Library/PackageCache/com.unity.2d.animation@5.0.4/Tests/Editor/PlaceholderTests.cs.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Tests/Editor/Unity.2D.Animation.EditorTests.asmdef
+Library/PackageCache/com.unity.2d.animation@5.0.4/Tests/Editor/Unity.2D.Animation.EditorTests.asmdef.meta
+Library/PackageCache/com.unity.2d.animation@5.0.4/Third Party Notices.md
+Library/PackageCache/com.unity.2d.animation@5.0.4/Third Party Notices.md.meta
+*.cs
